@@ -9,7 +9,7 @@ pymongo, json, dicttoxml, pymongo.errors
 
 
 +How to excute the code?
-=> Project2_DB2.py
+=> Project2_DB2.py<br>
 =>It will automatically generate the output files in the output folder.
 =>This project is generate two Databases.
 	1.DB2 to store the collection for txt files.
