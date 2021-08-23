@@ -14,9 +14,6 @@ pymongo, json, dicttoxml, pymongo.errors
 =>This project is generate two Databases.
 	1.DB2 to store the collection for txt files.
 	2.Project2 to store the new created PROJECTS documents collection and EMPLOYEES documents collection.
-
-
-+ Extra credit part(1) and part(2)
  
 =>both parts are done in the same file Project2_DB2.py.
 =>output file will automatically generate in the output folder.
